@@ -107,7 +107,7 @@ html {
 }
 .chrome h1:before {
     position: absolute;
-    content: "Philly Radio";
+    content: "AM RADIO";
     color: #d6d6d6;
     -webkit-mask-image: -webkit-linear-gradient(271deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,1) 53%, rgba(0,0,0,1) 55%, rgba(0,0,0,0.8) 56%, rgba(0,0,0,0.05) 100%);
     z-index:120;
